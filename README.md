@@ -8,7 +8,7 @@ root password root password  root password
 
 //3
 
-emailpassd emailpassd emailpassd 
+emailpassword mailpassword mailpassword 
 
 
 // 5
