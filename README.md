@@ -59,3 +59,6 @@ jenkins.plugins.publish_over_ssh.BapSshPublisherPlugin.xml
 credentials.xml 
 
 .pubxml
+
+
+test_common_word
